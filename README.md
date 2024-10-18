@@ -4,15 +4,17 @@
 
 I am a skilled web developer specializing in WordPress theme and plugin development.
 
+
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
 ✅ JavaScript <br>
+✅ jQuery <br>
 ✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ HTML5 / CSS3 / SASS / responsive / Bootstrap <br>
+✅ Photoshop / Illustrator / Canva <br>
 
 
-- 🔭 I’m currently working on Fiverr 
+
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web development 
 
